@@ -72,3 +72,25 @@ a {
 .img-tabligh {
     border-radius: 10px;
 }
+
+.slider {
+    padding:20px 0;
+    .img-tabligh {
+        margin-bottom: 10px;
+    }
+
+    .carousel-inner {
+        img {
+            height: 375px;
+            border-radius: 10px;
+
+            @media (max-width:768px) {
+                height: auto;
+            }
+        }
+    }
+
+    .carousel-control {
+        border-radius: 10px;
+    }
+}
