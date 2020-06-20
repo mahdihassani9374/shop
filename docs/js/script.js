@@ -22,11 +22,11 @@ $(function () {
     accessibility: false,
     responsive: [
       {
-        breakpoint: 768,
+        breakpoint: 900,
         settings: {
           arrows: false,
           centerMode: true,
-          centerPadding: '40px',
+          centerPadding: '20px',
           slidesToShow: 3
         }
       },
@@ -35,7 +35,7 @@ $(function () {
         settings: {
           arrows: false,
           centerMode: true,
-          centerPadding: '40px',
+          centerPadding: '20px',
           slidesToShow: 1
         }
       }
