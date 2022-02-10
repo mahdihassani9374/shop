@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "bootstrap": "^3.4.1",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   },
   "resolutions": {
     "graceful-fs": "4.2.3"
